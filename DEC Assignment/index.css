@@ -1,0 +1,19 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+.product-card img {
+    max-height: 200px;
+    object-fit: cover;
+}
+footer {
+    background-color: #050e18;
+    color:  whitesmoke;
+    padding: 20px 0;
+}
+h5{
+    color: black;
+}
